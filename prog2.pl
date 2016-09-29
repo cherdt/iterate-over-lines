@@ -1,0 +1,3 @@
+while (<>) {
+    print `echo $_`;
+}
